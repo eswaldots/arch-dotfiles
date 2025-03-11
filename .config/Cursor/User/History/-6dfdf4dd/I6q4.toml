@@ -1,0 +1,54 @@
+# starship.toml
+
+add_newline = false
+palette = "default"
+
+format = """
+[╭](fg:separator)\
+$status\
+$directory\
+$cmd_duration\
+$line_break\
+[╰](fg:separator)\
+$character\
+"""
+
+###########################################
+
+[palettes.default]
+prompt_ok = "#a6d189"    # Green
+prompt_err = "#e78284"   # Red
+icon = "#232634"         # Base
+separator = "#414559"    # Surface0
+background = "#414559"   # Surface0
+
+directory = "#ca9ee6"    # Mauve
+duration = "#ef9f76"     # Peach
+status = "#e78285"       # Red
+
+###########################################
+
+[character]
+success_symbol = "[❯](fg:prompt_ok)"
+error_symbol = "[❯](fg:prompt_err)"
+
+[directory]
+format = "[─](fg:separator)[](fg:directory)[](fg:icon bg:directory)[](fg:directory bg:background)[ $path](bg:background)[](fg:background)"
+truncate_to_repo = false
+truncation_length = 0
+
+[status]
+format = "[─](fg:separator)[](fg:status)[](fg:icon bg:status)[](fg:status bg:background)[ $status](bg:background)[](fg:background)"
+pipestatus = true
+pipestatus_separator = "-"
+pipestatus_segment_format = "$status"
+pipestatus_format = "[─](fg:separator)[](fg:status)[](fg:icon bg:status)[](fg:status bg:background)[ $pipestatus](bg:background)[](fg:background)"
+disabled = false
+
+[cmd_duration]
+format = "[─](fg:separator)[](fg:duration)[󱐋](fg:icon bg:duration)[](fg:duration bg:background)[ $duration](bg:background)[](fg:background)"
+min_time = 1000
+
+[time]
+format = "[](fg:duration)[󰥔](fg:icon bg:duration)[](fg:duration bg:background)[ $time](bg:background)[](fg:background)"
+disabled = false

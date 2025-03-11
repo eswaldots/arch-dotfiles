@@ -1,0 +1,1 @@
+{"timestamp":1739758010594,"paths":["./README.md","./flake.nix","./hyprpm.toml","./.gitignore","./Makefile","./LICENSE","./src/Helpers.h","./src/Helpers.cpp","./src/main.cpp","./src/TexturesDark.h","./src/WindowInverter.cpp","./src/WindowInverter.h","./shaders/transparency.frag","./.github/workflows/notify.yml"]}

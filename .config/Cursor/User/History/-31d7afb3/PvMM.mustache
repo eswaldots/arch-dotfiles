@@ -1,0 +1,27 @@
+precision mediump float;
+varying vec2 v_texcoord;
+uniform sampler2D tex;
+
+uniform float time;
+
+uniform vec2 topLeft;
+uniform vec2 fullSize;
+
+void main() {
+    vec4 pixColor = texture2D(tex, v_texcoord);
+    
+    // Define the green color to key out and threshold
+    vec3 keyColor = vec3(0.0, 1.0, 0.0);
+    float threshold = 0.4;  // Adjust this value to control sensitivity
+    
+    // Calculate the difference between pixel color and key color
+    vec3 colorDiff = abs(pixColor.rgb - keyColor);
+    float diff = length(colorDiff);
+    
+    // If the color is close to green, make it transparent
+    if (diff < threshold) {
+        pixColor.a = 0.0;
+    }
+    
+    gl_FragColor = pixColor;
+}

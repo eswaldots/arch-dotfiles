@@ -1,0 +1,27 @@
+precision mediump float;
+varying vec2 v_texcoord;
+uniform sampler2D tex;
+
+uniform float time;
+
+uniform vec2 topLeft;
+uniform vec2 fullSize;
+
+void main() {
+    vec4 pixColor = texture2D(tex, v_texcoord);
+    
+    // Define the target color (#282828) in RGB (40/255 ≈ 0.157)
+    vec3 keyColor = vec3(0.157, 0.157, 0.157);
+    float threshold = 0.1;  // Lower threshold since we want to match a specific color
+    
+    // Calculate the difference between pixel color and key color
+    vec3 colorDiff = abs(pixColor.rgb - keyColor);
+    float diff = length(colorDiff);
+    
+    // If the color is close to #282828, make it transparent
+    if (diff < threshold) {
+        pixColor.a = 0.0;
+    }
+    
+    gl_FragColor = pixColor;
+}

@@ -1,0 +1,79 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  /* Variables de colores */
+  .light {
+    background-color: #ffffff;
+    --primary: #121212;
+    --neutral-100: #111827;
+    --neutral-300: #374151;
+    --neutral-500: #6b7280;
+    --neutral-700: #d1d5db;
+    --neutral-800: #f2f2f3;
+    --neutral-900: #f3f4f6;
+    --neutral-950: #ffffff;
+  }
+
+  .dark {
+    background-color: #121212;
+    --primary: #2563eb;
+    --neutral-100: #f3f4f6;
+    --neutral-300: #e5e7eb;
+    --neutral-500: #9ca3af;
+    --neutral-700: #4b5563;
+    --neutral-800: #374151;
+    --neutral-900: #1f2937;
+    --neutral-950: #111827;
+  }
+
+  /* Usa el font predeterminado de Windows */
+  body {
+    font-family: "Inter", sans-serif;
+  }
+
+  .hide-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+
+  .hide-scrollbar {
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+  }
+
+  .title-bar {
+    -webkit-app-region: drag;
+  }
+
+  .error {
+    border: 1px solid red;
+  }
+
+  .fade {
+    transition: opacity 0.1s ease-in;
+  }
+  .fadeIn {
+    opacity: 1;
+  }
+  .fadeOut {
+    opacity: 0;
+  }
+
+  .logo {
+    view-transition-name: image-expand;
+  }
+
+  table tbody {
+    display: block;
+    max-height: 1200px;
+    overflow-y: scroll;
+  }
+
+  table thead,
+  table tbody tr {
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+  }
+}

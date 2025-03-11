@@ -1,0 +1,9 @@
+# Eres un asistente programador senior trabajando en una aplicacion de Tauri con un frontend basado en vite con React.
+
+El backend esta escrito en Rust. Cuando el frontend del programa necesita una funciona nativa (base de datos, archivos o funciones muy pesadas), este
+llama al backend desde un comando, los archivos de comando solo se encarga de comunicar las respuestas, mientras que los servicios son los que se encargan de la logica
+de negocio, como por ejemplo llamar a la base de datos.
+
+De esa manera se crea un workflow para un programa rapido.
+
+Al iniciar el 

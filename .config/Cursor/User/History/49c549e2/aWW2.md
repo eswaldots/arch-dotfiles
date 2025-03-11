@@ -1,0 +1,37 @@
+# Temperatura de ebullicion ( $Te$ )
+$$ Te  = TeA +  \triangle Te$$
+**En donde:**
+   - $Tea$ = Temperatura de ebullicion del solvente puro 
+   - $\triangle Te$ = Variacion del $Te$
+
+   **Las dos son constantes no necesarias de calcular**
+# Variacion de la $Te$ ($TeA$)
+$$\triangle Te = m.Kc $$
+**En donde:**
+   - $m$ = Molalidad 
+   - $Kc$ = Constante ebulliscopica 
+# Temperatura de congelación ( $Tc$ )
+$$ Tc = TcA - \triangle Tc$$
+**En donde:**
+   - $TcA$ = Temperatura de congelación del solvente puro
+   - $\triangle Tc$ = Variación del $Tc$
+
+   **Las dos son constantes no necesarias de calcular**
+# Variación de la $Tc$ ($\triangle Tc$)
+$$\triangle Tc = m.Kc $$
+**En donde:**
+   - $m$ = Molalidad
+   - $Kc$ = Constante crioscópica
+
+# Presión osmótica ( $\pi$ )
+$$ \pi = M.R.T $$
+**En donde:**
+   - $M$ = Molaridad
+   - $R$ = Constante de los gases ideales
+   - $T$ = Temperatura absoluta (Kelvin)
+
+# Variación de la presión osmótica ($\triangle \pi$)
+$$ \triangle \pi = \pi_2 - \pi_1 $$
+**En donde:**
+   - $\pi_2$ = Presión osmótica final
+   - $\pi_1$ = Presión osmótica inicial

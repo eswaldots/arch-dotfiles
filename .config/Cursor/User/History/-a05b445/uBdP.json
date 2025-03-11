@@ -1,0 +1,75 @@
+{
+    "editor.fontFamily": "Cascadia Code",
+    "window.titleBarStyle": "custom",
+    "workbench.iconTheme": "vscode-jetbrains-icon-theme-2023-dark",
+    "workbench.editor.empty.hint": "hidden",
+
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.colorCustomizations": {
+        "terminal.background": "#00000000"
+    },
+    "workbench.settings.applyToAllProfiles": [
+        "workbench.colorCustomizations"
+    ],
+    "editor.minimap.enabled": false,
+
+    // VIM STUFF
+    "vim.leader": "Space",
+    "vim.overrideCopy": true,
+
+    "editor.lineNumbers": "relative",
+    "vim.handleKeys": {
+        "<C-b>": false,
+        "<C-w>": false,
+        "<C-m>": false,
+        "<C-y>": false,
+    },
+
+    "vim.normalModeKeyBindingsNonRecursive": [
+        { "before": ["<S-h>"], "commands": [":bprevious"] },
+        { "before": ["<S-l>"], "commands": [":bnext"] },
+        {
+            "before": ["K"],
+            "commands": ["editor.action.showHover"]
+        }
+    ],
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "terminal.integrated.fontFamily": "CaskaydiaMono Nerd Font Propo",
+    "editor.fontLigatures": true,
+    "git.enableSmartCommit": true,
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "breadcrumbs.enabled": false,
+    "breadcrumbs.icons": false,
+    "npm.packageManager": "pnpm",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "supermaven.enable": {
+        "*": false
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.productIconTheme": "bongocat",
+    "vscode-blur-linux.opacity": 1,
+    "animations.Install-Method": "Apc Customize UI++",
+    "apc.imports": [
+        "file://${userHome}/.cursor/extensions/brandonkirbyson.vscode-animations-2.0.7/dist/updateHandler.js"
+    ],
+    "transparent-win.transparency": 0.2,
+    "glassit.alpha": 40,
+    "glassit.force_sway": true,
+    "workbench.colorTheme": "Gruvbox Dark Medium",
+    "workbench.layoutControl.enabled": false,
+    "workbench.preferredDarkColorTheme": "Gruvbox Material Dark",
+    "window.autoDetectColorScheme": true,
+    "workbench.preferredLightColorTheme": "Gruvbox Light Soft",
+    "cursor.cmdk.useThemedDiffBackground": true,
+    "editor.cursorBlinking": "smooth",
+    "vscode_custom_css.imports": [
+        "file:///home/ezwal/.cursor/extensions/yesitsfebreeze.smearcursor-1.1.2/_smearcursor.js"
+    ],
+}

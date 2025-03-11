@@ -1,0 +1,87 @@
+use serde::{Deserialize, Serialize};
+
+#[derive(Serialize, Deserialize)]
+pub struct RepeinJSON {
+    pub personal_birthplace: String,
+    pub personal_address: String,
+    pub trait_build: String,
+    pub trait_has_scars: String,
+    pub fathers_phone: String,
+    pub trait_nose_type: String,
+    pub fathers_surname: String,
+    pub trait_skin: String,
+    pub fathers_name: String,
+    pub personal_passport_expiration: String,
+    pub personal_licenses: String,
+    pub personal_birthday: String,
+    pub personal_gender: String,
+    pub trait_scars: String,
+    pub relatives: String,
+    pub trait_eyebrow_type: String,
+    pub personal_ci: String,
+    pub trait_hair_color: String,
+    pub trait_face_type: String,
+    pub personal_passport: String,
+    pub personal_state_civil: String,
+    pub personal_homeland_ci: String,
+    pub fathers_ci: String,
+    pub personal_passport_years_valid: String,
+    pub personal_account_bank: String,
+    pub personal_surnames: String,
+    pub personal_phone: String,
+    pub personal_name: String,
+    pub trait_lips_type: String,
+    pub personal_front_photo: String,
+    pub trait_others: String,
+    pub personal_coordinates: String,
+    pub trait_eyes_color: String,
+    pub trait_has_tattoos: String,
+    pub trait_height: String,
+    pub personal_nicknames: String,
+    pub fathers_age: String,
+    pub records: String,
+    pub childrens: String,
+    pub personal_age: String,
+    pub trait_tattoos: String,
+    pub fathers_birthday: String,
+    pub personal_back_photo: String,
+    pub trait_eyes_type: String,
+    pub trait_hair_type: String,
+    pub trait_hands_type: String,
+}
+
+#[derive(Serialize, Deserialize)]
+pub struct Children {
+    pub id: String,
+    pub children_name: String,
+    pub children_surnames: String,
+    pub children_birthday: String,
+    pub children_age: String,
+    pub children_grade: String,
+}
+
+#[derive(Serialize, Deserialize)]
+pub struct Relative {
+    pub id: String,
+    pub relationship: String,
+    pub relative_name: String,
+    pub relative_surname: String,
+    pub relative_birthday: String,
+    pub relative_age: String,
+    pub relative_grade: String,
+    pub relative_phone: String,
+    pub relative_address: String,
+}
+
+#[derive(Serialize, Deserialize)]
+pub struct Records {
+    pub id: String,
+    pub record_name: String,
+    pub record_type: String,
+}
+
+#[derive(Serialize, Deserialize)]
+pub enum RepeinError {
+    InvalidJson(#[from] serde_json::Error),
+    DatabaseError(#[from] sqlx::Error),
+}

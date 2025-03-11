@@ -1,0 +1,79 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "6651710681b02db94ef51faa316c820e4420026d9100d1e98215449d046666b3",
+    "telemetry.macMachineId": "c4c1f6aa10aed6d791a93d833ab980f2426336ecc9f5100649add5bcb1256dd4",
+    "telemetry.devDeviceId": "8b0ca442-b338-4de9-88ca-f1f6eeb06af6",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/ezwal/Documents/eswaldots-brain"
+            },
+            {
+                "folderUri": "file:///home/ezwal/Documents/SIGE"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/ezwal/Documents/SIGE": "__default__profile__",
+            "file:///home/ezwal/Documents/eswaldots-brain": "__default__profile__",
+            "file:///home/ezwal/Documents/config": "__default__profile__",
+            "file:///home/ezwal/Documents/Hyprchroma": "__default__profile__",
+            "file:///home/ezwal/.config/hypr": "__default__profile__",
+            "file:///home/ezwal/Documents/Hypr-DarkWindow": "__default__profile__",
+            "file:///home/ezwal": "__default__profile__",
+            "file:///home/ezwal/.config/ags": "__default__profile__",
+            "file:///home/ezwal/Documents/nes-emu": "__default__profile__",
+            "file:///home/ezwal/Documents/monkey-bot": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/ezwal/Documents/SIGE",
+            "backupPath": "/home/ezwal/.config/Cursor/Backups/4ec4a272784580bfcd9f030dea24244c",
+            "uiState": {
+                "mode": 1,
+                "x": 14,
+                "y": 68,
+                "width": 1338,
+                "height": 686,
+                "zoomLevel": 1
+            }
+        },
+        "openedWindows": []
+    },
+    "windowControlHeight": 42,
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e2e",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cdd6f4",
+            "background": "#1e1e2e",
+            "editorBackground": "#1e1e2e",
+            "titleBarBackground": "#11111b",
+            "titleBarBorder": "rgba(0, 0, 0, 0)",
+            "activityBarBackground": "#11111b",
+            "activityBarBorder": "rgba(0, 0, 0, 0)",
+            "sideBarBackground": "#181825",
+            "sideBarBorder": "rgba(0, 0, 0, 0)",
+            "statusBarBackground": "#11111b",
+            "statusBarBorder": "rgba(0, 0, 0, 0)",
+            "statusBarNoFolderBackground": "#11111b",
+            "windowBorder": "rgba(0, 0, 0, 0)"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 0,
+            "sideBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    }
+}
