@@ -20,10 +20,6 @@
         "command": "selectPrevCodeAction",
         "when": "codeActionMenuVisible"
     },
-    {
-        "command": "workbench.action.toggleSidebarVisibility",
-        "key": "ctrl+e"
-      },
       {
         "command": "workbench.files.action.focusFilesExplorer",
         "key": "ctrl+e",
@@ -53,5 +49,13 @@
         "key": "ctrl+p",
         "command": "workbench.action.quickOpen",
         "when": "!suggestWidgetVisible && !inQuickOpen && !codeActionMenuVisible"
+    },
+    {
+      "key": "ctrl+i",
+      "command": "composerMode.agent"
+    },
+    {
+      "key": "ctrl+l",
+      "command": "composerMode.chat"
     }
 ]

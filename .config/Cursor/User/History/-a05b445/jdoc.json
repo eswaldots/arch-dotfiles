@@ -1,7 +1,0 @@
-{
-    "window.commandCenter": 1,
-    "editor.fontFamily": "Cascadia Code",
-    "workbench.colorTheme": "Gruvbox Material Dark",
-    "git.enableSmartCommit": true,
-    "git.autofetch": true
-}
