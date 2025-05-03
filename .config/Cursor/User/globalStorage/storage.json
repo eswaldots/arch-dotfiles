@@ -7,7 +7,7 @@
         "workspaces": [],
         "folders": [
             {
-                "folderUri": "file:///home/ezwal/Documents/SIGE"
+                "folderUri": "file:///home/ezwal/Documents/sige-api"
             }
         ],
         "emptyWindows": []
@@ -28,53 +28,59 @@
             "file:///home/ezwal/Documents/microbit_tests": "__default__profile__",
             "file:///home/ezwal/Documents/spotify_scrapper": "__default__profile__",
             "file:///home/ezwal/Documents/report-api": "__default__profile__",
-            "file:///home/ezwal/.config/nvim": "__default__profile__"
+            "file:///home/ezwal/.config/nvim": "__default__profile__",
+            "file:///home/ezwal/Documents/axum_posts": "__default__profile__",
+            "file:///home/ezwal/Documents/sige-api": "__default__profile__",
+            "file:///home/ezwal/.config/fuzzel": "__default__profile__",
+            "file:///home/ezwal/.config/anyrun": "__default__profile__",
+            "file:///home/ezwal/.config/waybar": "__default__profile__",
+            "file:///home/ezwal/VNISH_WEB_Bitmain-Antminer-S19/extraction": "__default__profile__",
+            "file:///home/ezwal/Documents/firmwares/feepool_install/extractions": "__default__profile__",
+            "file:///home/ezwal/Documents/no_dev_fee": "__default__profile__"
         },
         "emptyWindows": {}
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/ezwal/Documents/SIGE",
-            "backupPath": "/home/ezwal/.config/Cursor/Backups/4ec4a272784580bfcd9f030dea24244c",
+            "folder": "file:///home/ezwal/Documents/sige-api",
+            "backupPath": "/home/ezwal/.config/Cursor/Backups/f2c85d13965409e649033c2d09bc65bc",
             "uiState": {
-                "mode": 0,
-                "x": 0,
-                "y": 29,
-                "width": 1896,
-                "height": 1014,
-                "zoomLevel": 3
+                "mode": 1,
+                "x": 6,
+                "y": 36,
+                "width": 1908,
+                "height": 1038,
+                "zoomLevel": 1
             }
         },
         "openedWindows": []
     },
-    "windowControlHeight": 52,
+    "windowControlHeight": 42,
     "theme": "vs-dark",
-    "themeBackground": "#1e1e2e",
+    "themeBackground": "#2d353b",
     "windowSplash": {
         "zoomLevel": 0,
         "baseTheme": "vs-dark",
         "colorInfo": {
-            "foreground": "#cdd6f4",
-            "background": "#1e1e2e",
-            "editorBackground": "#1e1e2e",
-            "titleBarBackground": "#11111b",
-            "titleBarBorder": "rgba(0, 0, 0, 0)",
-            "activityBarBackground": "#11111b",
-            "activityBarBorder": "rgba(0, 0, 0, 0)",
-            "sideBarBackground": "#181825",
-            "sideBarBorder": "rgba(0, 0, 0, 0)",
-            "statusBarBackground": "#11111b",
-            "statusBarBorder": "rgba(0, 0, 0, 0)",
-            "statusBarNoFolderBackground": "#11111b",
-            "windowBorder": "rgba(0, 0, 0, 0)"
+            "foreground": "#9aa79d",
+            "background": "#2d353b",
+            "editorBackground": "#2d353b",
+            "titleBarBackground": "#2d353b",
+            "titleBarBorder": "#2d353b",
+            "activityBarBackground": "#2d353b",
+            "activityBarBorder": "#2d353b",
+            "sideBarBackground": "#2d353b",
+            "statusBarBackground": "#2d353b",
+            "statusBarBorder": "#2d353b",
+            "statusBarNoFolderBackground": "#2d353b"
         },
         "layoutInfo": {
             "sideBarSide": "right",
             "editorPartMinWidth": 220,
-            "titleBarHeight": 30,
+            "titleBarHeight": 35,
             "activityBarWidth": 0,
-            "sideBarWidth": 0,
-            "statusBarHeight": 0,
+            "sideBarWidth": 283,
+            "statusBarHeight": 22,
             "windowBorder": false
         }
     }

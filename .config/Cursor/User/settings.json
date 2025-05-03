@@ -27,7 +27,7 @@
   "editor.gotoLocation.multipleImplementations": "goto",
   "editor.gotoLocation.multipleTypeDefinitions": "goto",
 
-  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontFamily": "JetBrains Mono Nerd Font",
   "window.titleBarStyle": "custom",
   "workbench.editor.empty.hint": "hidden",
 
@@ -90,7 +90,6 @@
   "glassit.alpha": 40,
   "glassit.force_sway": true,
   "workbench.colorTheme": "Gruvbox Dark Medium",
-  "workbench.layoutControl.enabled": false,
   "window.autoDetectColorScheme": true,
   "workbench.preferredLightColorTheme": "Gruvbox Light Soft",
   "cursor.cmdk.useThemedDiffBackground": true,
@@ -104,9 +103,9 @@
   "[scss]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "workbench.preferredDarkColorTheme": "Catppuccin Mocha",
+  "workbench.preferredDarkColorTheme": "Everforest Dark",
   "workbench.sideBar.location": "right",
-  "workbench.iconTheme": "symbols",
+  "workbench.iconTheme": "catppuccin-perfect-mocha",
   "[json]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
@@ -114,7 +113,6 @@
     "asvetliakov.vscode-neovim": 1
   },
   "explorer.confirmDelete": false,
-  "window.menuBarVisibility": "compact",
   "explorer.confirmDragAndDrop": false,
   "[markdown]": {
     "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
@@ -124,7 +122,12 @@
   "[rust]": {
     "editor.defaultFormatter": "rust-lang.rust-analyzer"
   },
-  "workbench.editor.editorActionsLocation": "titleBar",
+  "workbench.editor.editorActionsLocation": "hidden",
   "window.customTitleBarVisibility": "auto",
-  "workbench.statusBar.visible": false
+  "vim.useSystemClipboard": true,
+  "workbench.layoutControl.enabled": false,
+  "workbench.navigationControl.enabled": false,
+  "window.commandCenter": true,
+  "window.menuBarVisibility": "compact",
+  "extensions.ignoreRecommendations": true
 }

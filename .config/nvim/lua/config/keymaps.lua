@@ -3,5 +3,7 @@
 -- Add any additional keymaps here
 
 local map = LazyVim.safe_keymap_set
+local unmap = vim.keymap.del
 
-map("n", "-", ":Oil<CR>")
+map("n", "-", ":Oil<cr>")
+map("n", "<C-p>", "<cmd>FzfLua files<cr>", { desc = "Search files" })
