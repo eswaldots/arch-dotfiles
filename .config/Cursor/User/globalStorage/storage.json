@@ -1,7 +1,7 @@
 {
-    "telemetry.sqmId": "",
-    "telemetry.machineId": "6651710681b02db94ef51faa316c820e4420026d9100d1e98215449d046666b3",
-    "telemetry.macMachineId": "c4c1f6aa10aed6d791a93d833ab980f2426336ecc9f5100649add5bcb1256dd4",
+    "telemetry.sqmId": "{AEDF632C-D699-4701-9B2F-1C4055347FF7}",
+    "telemetry.machineId": "744d1741995ecb1eeda3a79aa309a11b736af8a839c478f6c91a887ec34e47a8",
+    "telemetry.macMachineId": "a74f38a9a7c1409e5f5fdd3bc254b4ba5051d97489a119fa81ad3cada8d398c4d7a8e46846d026587e3394f93d01a4a7a75aaa6885d739a205136864b7e6de17",
     "telemetry.devDeviceId": "8b0ca442-b338-4de9-88ca-f1f6eeb06af6",
     "backupWorkspaces": {
         "workspaces": [],
@@ -48,8 +48,8 @@
                 "mode": 1,
                 "x": 6,
                 "y": 36,
-                "width": 1908,
-                "height": 1038,
+                "width": 1354,
+                "height": 726,
                 "zoomLevel": 1
             }
         },
@@ -83,5 +83,6 @@
             "statusBarHeight": 22,
             "windowBorder": false
         }
-    }
+    },
+    "storage.serviceMachineId": "2d12cca7-814f-4adb-8083-6726b4fb0eda"
 }

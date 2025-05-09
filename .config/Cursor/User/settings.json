@@ -27,7 +27,7 @@
   "editor.gotoLocation.multipleImplementations": "goto",
   "editor.gotoLocation.multipleTypeDefinitions": "goto",
 
-  "editor.fontFamily": "JetBrains Mono Nerd Font",
+  "editor.fontFamily": "JetBrains Mono",
   "window.titleBarStyle": "custom",
   "workbench.editor.empty.hint": "hidden",
 
