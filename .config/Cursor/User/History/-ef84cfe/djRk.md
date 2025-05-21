@@ -1,6 +1,0 @@
-# 🥡 Contexto
-
-
-# 🔍 Solución
-
-# Resultado
