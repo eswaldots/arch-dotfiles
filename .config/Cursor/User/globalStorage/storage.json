@@ -36,7 +36,8 @@
             "file:///home/ezwal/.config/waybar": "__default__profile__",
             "file:///home/ezwal/VNISH_WEB_Bitmain-Antminer-S19/extraction": "__default__profile__",
             "file:///home/ezwal/Documents/firmwares/feepool_install/extractions": "__default__profile__",
-            "file:///home/ezwal/Documents/no_dev_fee": "__default__profile__"
+            "file:///home/ezwal/Documents/no_dev_fee": "__default__profile__",
+            "file:///home/ezwal/Documents/embed-rust": "__default__profile__"
         },
         "emptyWindows": {}
     },
@@ -46,10 +47,10 @@
             "backupPath": "/home/ezwal/.config/Cursor/Backups/f2c85d13965409e649033c2d09bc65bc",
             "uiState": {
                 "mode": 1,
-                "x": 6,
-                "y": 36,
-                "width": 1354,
-                "height": 726,
+                "x": 7,
+                "y": 37,
+                "width": 1352,
+                "height": 724,
                 "zoomLevel": 1
             }
         },
@@ -57,22 +58,24 @@
     },
     "windowControlHeight": 42,
     "theme": "vs-dark",
-    "themeBackground": "#2d353b",
+    "themeBackground": "#1e1e2e",
     "windowSplash": {
         "zoomLevel": 0,
         "baseTheme": "vs-dark",
         "colorInfo": {
-            "foreground": "#9aa79d",
-            "background": "#2d353b",
-            "editorBackground": "#2d353b",
-            "titleBarBackground": "#2d353b",
-            "titleBarBorder": "#2d353b",
-            "activityBarBackground": "#2d353b",
-            "activityBarBorder": "#2d353b",
-            "sideBarBackground": "#2d353b",
-            "statusBarBackground": "#2d353b",
-            "statusBarBorder": "#2d353b",
-            "statusBarNoFolderBackground": "#2d353b"
+            "foreground": "#cdd6f4",
+            "background": "#1e1e2e",
+            "editorBackground": "#1e1e2e",
+            "titleBarBackground": "#11111b",
+            "titleBarBorder": "rgba(0, 0, 0, 0)",
+            "activityBarBackground": "#11111b",
+            "activityBarBorder": "rgba(0, 0, 0, 0)",
+            "sideBarBackground": "#181825",
+            "sideBarBorder": "rgba(0, 0, 0, 0)",
+            "statusBarBackground": "#11111b",
+            "statusBarBorder": "rgba(0, 0, 0, 0)",
+            "statusBarNoFolderBackground": "#11111b",
+            "windowBorder": "rgba(0, 0, 0, 0)"
         },
         "layoutInfo": {
             "sideBarSide": "right",

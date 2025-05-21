@@ -1,173 +1,247 @@
+Inbox.md
+Cider purchase.md
+Excalidraw/Drawing 2025-05-07 09.13.56.excalidraw.md
+Area/Liceo/Dashboard de liceo.md
+Excalidraw/Drawing 2025-05-02 07.01.11.excalidraw.md
+Area/Liceo/Calificaciones/Registro de calificaciones 3er lapso.md
+Excalidraw/Drawing 2025-05-01 21.14.12.excalidraw.md
+Area/Liceo/Calificaciones/Registro de calificaciones 2do lapso.md
 Excalidraw/Drawing 2025-04-08 13.12.33.excalidraw.md
-Deepseek Request Test.md
-Spotilytics.md
-Hyprland.md
-.cursorrules
+Area/Liceo/Materias/Orientacion/Informes/Capitulo 2/Investigacion Juan.md
+Area/Liceo/Materias/Orientacion/Informes/Capitulo 2/Investigacion Yonaylis.md
+Area/Liceo/Materias/Orientacion/Informes/Capitulo 2/Investigacion Ihan.md
+Personal/Journal/Problemas 2025.md
+Personal/Journal/1747672906-TUXC.md
+Personal/Journal/Perros en direccion.md
+Area/Liceo/Materias/Ingles/Roleplay.md.md
+Personal/Journal/Soledad.md
+Area/Liceo/Materias/Quimica/Conceptos/Potencial del hidrogeno.md
+Personal/Journal/BAILE INoLVIDABLE.md
+Personal/Journal/Mirar atras.md
 Personal/Journal/Profundo vinculo.md
 Personal/Journal/Ansiedad.md
+Area/Liceo/Materias/Quimica/Informes/Marco teorico.md
+Area/Liceo/Materias/Quimica/Informes/Practica de laboratorio Reacciones Químicas.md
+Area/Liceo/Materias/Quimica/Tareas.md
+Area/Liceo/Materias/Quimica/Cheatsheets/Concentraciones.md
+Area/Liceo/Materias/Quimica/Cheatsheets/Tabla ICE.md
+Personal/Reflexiones/Estoy solo.md
+Personal/Reflexiones/Mi yo ideal.md
+Area/Liceo/Materias/Quimica/Temas/Equilibrio ionico y pH.md
+Personal/Reflexiones/Inseguridades.md
 Personal/Reflexiones/Cuestionamiento.md
 Personal/Reflexiones/Objetivos.md
 Personal/Reflexiones/Por que perdimos?.md
+Area/Liceo/Materias/Quimica/Temas/Concentraciones/Concentraciones.md
 Personal/Reflexiones/No puedo hacerlo.md
+Area/Liceo/Materias/Quimica/Temas/Laboratorio de quimica/Practica de laboratorio Reacciones Químicas.md
 Personal/Reflexiones/Procedimiento del pais.md
 Personal/Reflexiones/El respeto viene de las acciones.md
 Personal/Diario/2025-02-11.md
-Area/Liceo/Calificaciones/Registro de calificaciones 2do lapso.md
 Personal/Diario/2025-02-10.md
 .markdownlint.json
 .gitignore
-Vex GO.md
-View Transition CSS.md
-Ver tiempo de escucha en Spotify.md
-Area/Liceo/Materias/Ingles/Roleplay.md.md
 Area/Liceo/Examenes/Semana de examenes - Acto 3.md
 Area/Liceo/Examenes/Semana de examenes - Acto 1.md
 Area/Liceo/Examenes/Semana de examenes - Acto 2.md
 Area/Liceo/Examenes/Post-semana de examenes - 2025-W04.md
-Area/Liceo/Materias/Quimica/Cheatsheets/Tabla ICE.md
+Area/Liceo/Materias/Quimica/Temas/Laboratorio de quimica/Marco teorico.md
+Area/Liceo/Materias/Quimica/Temas/Soluciones/Ecuaciones soluciones quimica.md
 Area/Sueños/Mentira, parque y dos.md
-Area/Liceo/Materias/Quimica/Cheatsheets/Concentraciones.md
 Area/Sueños/Estrella, voleibol, aventura.md
+Area/Liceo/Materias/Quimica/Temas/Propiedades coligativas/Ecuaciones propiedades coligativas.md
+Area/Liceo/Materias/Quimica/Temas/Propiedades coligativas/Propiedades coligativas.md
 Area/Sueños/Sueños.md
 Area/Sueños/Orientacion y Sexo.md
 Area/Sueños/Viejo, armas y miedo.md
 Area/Sueños/Viejo, armas y Bad Bunny.md
-Assets/Ejemplos Hyprland 3.canvas
-Area/Liceo/Materias/Quimica/Temas/Concentraciones/Concentraciones.md
-Assets/Ejemplos Hyprland 1.canvas
-Assets/Ejemplos Hyprland 2.canvas
-Archivo/Eww/Eww.md
-Area/Liceo/Materias/Quimica/Temas/Laboratorio de quimica/Practica de laboratorio Reacciones Químicas.md
-Archivo/Eww/Importar archivos.md
-Area/Liceo/Materias/Quimica/Temas/Laboratorio de quimica/Marco teorico.md
-Recursos/Obsidian/MOC.md
-Area/Liceo/Materias/Quimica/Temas/Soluciones/Ecuaciones soluciones quimica.md
-Recursos/Programación/Conceptos/Clean arquitecture.md
-Area/Liceo/Materias/Quimica/Temas/Propiedades coligativas/Ecuaciones propiedades coligativas.md
-Area/Liceo/Materias/Quimica/Temas/Propiedades coligativas/Propiedades coligativas.md
-Recursos/Programación/Neovim/Ocurrencias.md
-Recursos/Programación/Neovim/Bloques de texto.md
-Recursos/Programación/Aplicacion para tipar JSON's.md
-Area/Liceo/Materias/Quimica/Marco teorico.md
-Recursos/Programación/Rust/El enemigo del From.md
-Recursos/Programación/Rust/Mutex.md
-Recursos/Programación/Rust/Manejo de errores en Rust.md
-Area/Liceo/Materias/Quimica/Practica de laboratorio Reacciones Químicas.md
-Recursos/Programación/React/Estados centralizados con Zustand.md
-Recursos/Programación/React/Contexto vs Estado global.md
-Recursos/Programación/AGS/AGS.md
-Recursos/Programación/AGS/SCSS like a project.md
 Area/Liceo/Materias/Castellano/Temas/La trepadora/Tipo de narrador.md
-Recursos/Programación/Linux/Installar aplicaciones de Electron.md
+Assets/Ejemplos Hyprland 3.canvas
 Area/Liceo/Materias/Castellano/Temas/La trepadora/Resumen primera parte.md
-Recursos/Programación/Linux/Una historia en Linux.md
+Assets/Ejemplos Hyprland 1.canvas
 Area/Liceo/Materias/Castellano/Temas/La trepadora/Ambiente psicológico.md
-Recursos/Templates/Nueva nota.md
+Assets/Ejemplos Hyprland 2.canvas
 Area/Liceo/Materias/Castellano/Temas/La trepadora/La Trepadora.md
-Recursos/Templates/Nota Diaria.md
 Area/Liceo/Materias/Castellano/Temas/La trepadora/Personajes principales.md
 Area/Liceo/Materias/Castellano/Sintagmas.md
 Area/Liceo/Materias/Castellano/Diagrama arboreo.md
 Area/Liceo/Materias/Castellano/Diferenciar adverbios de adjetivos.md
-Proyectos/Rust-8/Display y texturas.md
-Proyectos/Rust-8/Emulando un CPU.md
-Proyectos/Rust-8/Rust-8.md
-Proyectos/TecnoEletronics eCommerce/Estado de la reparacion.md
-Proyectos/TecnoEletronics eCommerce/TecnoEletronics eCommerce.md
-Proyectos/SIGE/SIGE kanban.md
+Archivo/Eww/Importar archivos.md
+Archivo/Eww/Eww.md
 Area/Liceo/Materias/Biologia/Examen de la biodiversidad.md
-Proyectos/SIGE/README.md
 Area/Liceo/Materias/Biologia/Nota sobre examen de biodiversidad.md
-Proyectos/SIGE/SIGE todos.md
 Area/Liceo/Materias/Biologia/Examen aportes mendel.md
-Proyectos/SIGE/Plantillas/problema-tecnico.md
-Proyectos/SIGE/Plantillas/decision-arquitectonica.md
 Area/Liceo/Materias/Biologia/Evidencias de la evolucion.md
-Proyectos/SIGE/Reuniones/Reunion 05-04-2025.md
+Recursos/Vida/Social natural.md
 Area/Liceo/Materias/Biologia/Examen_evidencias_evolucion.md
-Proyectos/SIGE/Reuniones/Reunion 29-05-2025.md
-Proyectos/SIGE/Reuniones/README.md
 Area/Liceo/Materias/Biologia/Anotaciones para el acto 2.md
-Proyectos/SIGE/Problemas-Soluciones/Reconocimiento facial via servidor SFTP.md
 Area/Liceo/Materias/Biologia/Examen de la evolucion y salud integral.md
-Proyectos/SIGE/Problemas-Soluciones/Renderizar imagenes BYTEA.md
-Proyectos/SIGE/Problemas-Soluciones/renderizar-imagenes-bytea.md
-Proyectos/SIGE/Problemas-Soluciones/README.md
-Proyectos/SIGE/Infraestructura/Servidor FTP para imágenes.md
+Recursos/Obsidian/Named links.md
+Recursos/Obsidian/MOC.md
 Area/Liceo/Materias/Matemáticas/Cheatsheets/Trigonometria 2.md
-Proyectos/SIGE/Infraestructura/README.md
+Area/Liceo/Materias/Matemáticas/Evaluaciones/Defensa geoplano.md
 Area/Liceo/Materias/Matemáticas/Evaluaciones/Examen propiedades logarítmicas.md
-Proyectos/SIGE/Base-de-Datos/TecnoElectronics DB credentials.md
-Proyectos/SIGE/Base-de-Datos/Una nueva forma de usar las custom tables.md
-Proyectos/SIGE/Base-de-Datos/Array tables.md
-Proyectos/SIGE/Base-de-Datos/Railway DB credentials.md
-Proyectos/SIGE/Base-de-Datos/Diferentes bases de datos para diferentes modulos.md
-Proyectos/SIGE/Base-de-Datos/Custom Tables.md
-Proyectos/SIGE/Base-de-Datos/README.md
+Recursos/Programación/Robotica/ESP32 pines comunes.md
+Recursos/Programación/Prompt engineering.md
 Area/Liceo/Materias/Matemáticas/Temas/Trigonometria/Hallar el valor de las razones.md
+Recursos/Programación/Conceptos/Dependencia de features.md
 Area/Liceo/Materias/Matemáticas/Temas/Trigonometria/Valores trigometricos.md
-Proyectos/SIGE/Backend/Mejora del tipado de Result en Comandos Tauri.md
-Proyectos/SIGE/Backend/Modulo de analisis.md
-Proyectos/SIGE/Backend/README.md
+Recursos/Programación/Conceptos/Vex GO.md
+Recursos/Programación/Conceptos/Proxy.md
+Recursos/Programación/Conceptos/Clean arquitecture.md
 Area/Liceo/Materias/Matemáticas/Temas/Trigonometria/Ejercicios/Calcular expresiones.md
-Proyectos/SIGE/Frontend/Procedimiento.md
-Proyectos/SIGE/Frontend/Reportes de PDF.md
-Proyectos/SIGE/Frontend/Plancha de personal.md
 Area/Liceo/Materias/Matemáticas/Temas/Trigonometria/Angulos.md
-Proyectos/SIGE/Frontend/Edicion de personal.md
 Area/Liceo/Materias/Matemáticas/Temas/Trigonometria/Trigonometria.md
-Proyectos/SIGE/Frontend/README.md
-Proyectos/SIGE/Arquitectura/Modulo de analisis.md
-Proyectos/SIGE/Arquitectura/Manejo de errores con AppError.md
-Proyectos/SIGE/Arquitectura/Encriptacion de la configuracion.md
-Proyectos/SIGE/Arquitectura/Mejora del tipado de Result en Comandos Tauri.md
-Proyectos/SIGE/Arquitectura/README.md
+Recursos/Programación/Neovim/Ocurrencias.md
+Recursos/Programación/Neovim/Bloques de texto.md
+Recursos/Programación/Aplicacion para tipar JSON's.md
 Area/Liceo/Materias/Matemáticas/Temas/Logaritmos/Propiedades logarítmicas.md
-Proyectos/SIGE/Proyecto SIGE.md
-Proyectos/SIGE/SIGE roadmap.md
 Area/Liceo/Materias/Matemáticas/Temas/Logaritmos/Ejercicios operaciones logaritmicas.md
-Proyectos/ezwalOS/ezwalOS Roadmap.md
 Area/Liceo/Materias/Matemáticas/Temas/Logaritmos/Ejercicios ecuaciones logaritmicas 2.md
+Recursos/Programación/Rust/Manejo de errores en Rust.md
 Area/Liceo/Materias/Matemáticas/Temas/Logaritmos/Operaciones logaritmicas.md
 Area/Liceo/Materias/Matemáticas/Temas/Logaritmos/Logaritmos.md
+Recursos/Programación/Rust/SeaORM/PartialModels.md
+Recursos/Programación/Rust/SeaORM/SeaORM.md
+Area/Liceo/Materias/Fisica/M.A.S.md
+Area/Liceo/Materias/Fisica/Movimiento armonico simple.md
+Recursos/Programación/Rust/SeaORM/Migraciones.md
+Area/Liceo/Materias/Fisica/Cheatsheets/Ecuaciones MCU.md
+Recursos/Programación/Rust/Mutex.md
+Recursos/Programación/Rust/El enemigo del From.md
+Area/Liceo/Materias/Fisica/Temas/M.C.U/Ejercicios MCU.md
+Area/Liceo/Materias/Fisica/Temas/M.C.U/MCU.md
+Recursos/Programación/React/View Transition CSS.md
+Area/Liceo/Materias/Fisica/Ejercicios Fisica.md
+Area/Liceo/Materias/Fisica/Ecuaciones de movimiento en el plano con velocidad constante.md
+Recursos/Programación/React/Spotilytics.md
+Recursos/Programación/React/Ver tiempo de escucha en Spotify.md
+Recursos/Programación/React/Estados centralizados con Zustand.md
+Recursos/Programación/React/Contexto vs Estado global.md
+Area/Liceo/Diario/2025-05-20.md
+Area/Liceo/Diario/2025-05-18.md
+Area/Liceo/Diario/2025-05-17.md
+Area/Liceo/Diario/2025-05-16.md
+Area/Liceo/Diario/2025-05-15.md
+Recursos/Programación/AGS/AGS.md
+Area/Liceo/Diario/2025-05-14.md
+Area/Liceo/Diario/2025-05-13.md
+Recursos/Programación/AGS/SCSS like a project.md
+Area/Liceo/Diario/2025-05-12.md
+Area/Liceo/Diario/2025-05-10.md
+Area/Liceo/Diario/2025-05-09.md
+Area/Liceo/Diario/2025-05-08.md
+Area/Liceo/Diario/2025-05-07.md
+Recursos/Programación/Linux/Hyprland.md
+Area/Liceo/Diario/2025-05-06.md
+Recursos/Programación/Linux/Installar aplicaciones de Electron.md
+Area/Liceo/Diario/2025-05-05.md
+Area/Liceo/Diario/2025-05-04.md
+Area/Liceo/Diario/2025-05-03.md
+Area/Liceo/Diario/2025-05-02.md
+Area/Liceo/Diario/2025-05-01.md
+Area/Liceo/Diario/2025-02-25.md
+Recursos/Programación/Linux/Una historia en Linux.md
+Area/Liceo/Diario/2025-02-17.md
+Area/Liceo/Diario/2025-01-27.md
+Recursos/Templates/Nota Diaria.md
+Recursos/Templates/Nueva nota.md
+.obsidian/snippets/transparent.css
+Proyectos/NoDevFee/Al reves.md
 .obsidian/workspace-mobile.json
+Proyectos/NoDevFee/Posible ganador.md
 .obsidian/graph.json
+Proyectos/NoDevFee/NoDevFee.md
 .obsidian/community-plugins.json
 .obsidian/daily-notes.json
 .obsidian/types.json
-Area/Liceo/Materias/Fisica/Cheatsheets/Ecuaciones MCU.md
-Area/Liceo/Materias/Fisica/Temas/M.C.U/Ejercicios MCU.md
-.obsidian/plugins/obsidian-excalidraw-plugin/data.json
-Area/Liceo/Materias/Fisica/Temas/M.C.U/MCU.md
-Area/Liceo/Materias/Fisica/Ejercicios Fisica.md
-Area/Liceo/Materias/Fisica/Ecuaciones de movimiento en el plano con velocidad constante.md
-Area/Liceo/Tareas del liceo.md
-Area/Liceo/Diario/2025-02-25.md
-Area/Liceo/Diario/2025-02-17.md
-Area/Liceo/Diario/2025-01-27.md
+Proyectos/Rust-8/Display y texturas.md
+Proyectos/Rust-8/Emulando un CPU.md
+Proyectos/Rust-8/Rust-8.md
+.obsidian/plugins/dataview/styles.css
+Proyectos/TecnoEletronics eCommerce/Estado de la reparacion.md
+Proyectos/TecnoEletronics eCommerce/TecnoEletronics eCommerce.md
+Proyectos/SIGE/SIGE kanban.md
+Proyectos/SIGE/Proyecto SIGE.md
+Proyectos/SIGE/Archivo/README.md
+Proyectos/SIGE/Archivo/Reclusión.md
+Proyectos/SIGE/Archivo/Plancha de personal.md
+Proyectos/SIGE/Archivo/Edicion de personal.md
+Proyectos/SIGE/Archivo/Procedimiento.md
+Proyectos/SIGE/Archivo/Una nueva forma de usar las custom tables.md
+Proyectos/SIGE/Archivo/Railway DB credentials.md
+Proyectos/SIGE/Archivo/Supabase DB credentials.md
+Proyectos/SIGE/Archivo/Renderizar imagenes BYTEA.md
+Proyectos/SIGE/Archivo/Manejo de errores con AppError.md
+Proyectos/SIGE/Archivo/Modulo de analisis.md
+Proyectos/SIGE/Archivo/renderizar-imagenes-bytea.md
+Proyectos/SIGE/Archivo/Mejora del tipado de Result en Comandos Tauri.md
+Proyectos/SIGE/Archivo/Servidor FTP para imágenes.md
+Proyectos/SIGE/Archivo/Reconocimiento facial via servidor SFTP.md
+Proyectos/SIGE/Archivo/Custom Tables.md
+Proyectos/SIGE/Archivo/Array tables.md
+Proyectos/SIGE/Archivo/Encriptacion de la configuracion.md
+Proyectos/SIGE/SIGE roadmap.md
+Proyectos/SIGE/Problemas Soluciones/Feature standard.md
+Proyectos/SIGE/Problemas Soluciones/1747616024-XVJD.md
+Proyectos/SIGE/Problemas Soluciones/1747616006-XFXT.md
+Proyectos/SIGE/Problemas Soluciones/Logica redundante.md
+Proyectos/SIGE/Problemas Soluciones/README.md
+Proyectos/SIGE/Plantillas/problema-tecnico.md
+Proyectos/SIGE/Plantillas/decision-arquitectonica.md
+Proyectos/SIGE/Reuniones/Reunion 29-04-2025.md
+Proyectos/SIGE/Reuniones/Reunion 10-05-2025.md
+Proyectos/SIGE/Reuniones/Reunion 05-04-2025.md
+Proyectos/SIGE/Reuniones/README.md
+Proyectos/SIGE/Infraestructura/README.md
+Proyectos/SIGE/Base-de-Datos/TecnoElectronics DB credentials.md
+Proyectos/SIGE/Base-de-Datos/README.md
+Proyectos/SIGE/Backend/Tecnologías del backend.md
+Proyectos/SIGE/Backend/SIGE API.md
+Proyectos/SIGE/Frontend/Reportes de PDF.md
+Proyectos/SIGE/Frontend/README.md
+Proyectos/SIGE/Arquitectura/Migración frontend.md
+Proyectos/SIGE/Arquitectura/Selección de tecnologías.md
+Proyectos/SIGE/Arquitectura/No frameworks.md
+Proyectos/SIGE/Arquitectura/README.md
+Proyectos/ezwalOS/ezwalOS Roadmap.md
+.obsidian/plugins/obsidian-tasks-plugin/styles.css
+.obsidian/plugins/obsidian-tasks-plugin/main.js
+.obsidian/plugins/obsidian-tasks-plugin/manifest.json
 .obsidian/plugins/remotely-save/data.json
+.obsidian/themes/Everforest/manifest.json
+.obsidian/themes/Everforest/theme.css
+.obsidian/plugins/dataview/main.js
+.obsidian/plugins/dataview/manifest.json
+.obsidian/plugins/templater-obsidian/styles.css
+.obsidian/plugins/templater-obsidian/main.js
+.obsidian/plugins/templater-obsidian/manifest.json
+.obsidian/plugins/obsidian-excalidraw-plugin/data.json
 .obsidian/plugins/obsidian-excalidraw-plugin/styles.css
 .obsidian/plugins/obsidian-excalidraw-plugin/manifest.json
 .obsidian/plugins/obsidian-git/obsidian_askpass.sh
 .obsidian/plugins/obsidian-git/data.json
 .obsidian/plugins/obsidian-git/styles.css
+.obsidian/plugins/obsidian-git/main.js
+.obsidian/plugins/obsidian-git/manifest.json
+.obsidian/themes/Blue Topaz/theme.css
+.obsidian/themes/Blue Topaz/manifest.json
+.obsidian/plugins/obsidian-kanban/styles.css
+.obsidian/themes/Minimal/theme.css
+.obsidian/themes/Minimal/manifest.json
+.obsidian/themes/Things/theme.css
+.obsidian/themes/Things/manifest.json
 .obsidian/themes/AnuPpuccin/theme.css
 .obsidian/themes/AnuPpuccin/manifest.json
 .obsidian/themes/Catppuccin/manifest.json
+.obsidian/plugins/obsidian-kanban/main.js
+.obsidian/plugins/obsidian-kanban/manifest.json
 .obsidian/themes/Obsidian gruvbox/theme.css
 .obsidian/themes/Obsidian gruvbox/manifest.json
 .obsidian/workspace.json
 .obsidian/appearance.json
 .obsidian/app.json
 .obsidian/core-plugins.json
-.obsidian/plugins/obsidian-git/main.js
-.obsidian/plugins/obsidian-git/manifest.json
-.obsidian/plugins/calendar/main.js
-.obsidian/plugins/calendar/data.json
 .obsidian/plugins/calendar/manifest.json
-.obsidian/plugins/obsidian-kanban/styles.css
-.obsidian/plugins/obsidian-tasks-plugin/styles.css
-.obsidian/plugins/obsidian-tasks-plugin/main.js
-.obsidian/plugins/obsidian-kanban/main.js
-.obsidian/plugins/obsidian-kanban/manifest.json
-.obsidian/plugins/obsidian-tasks-plugin/manifest.json
+.obsidian/plugins/calendar/data.json
+.obsidian/plugins/calendar/main.js

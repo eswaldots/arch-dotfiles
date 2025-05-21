@@ -97,13 +97,13 @@
   "vscode_custom_css.imports": [
     "file:///home/ezwal/.cursor/extensions/yesitsfebreeze.smearcursor-1.1.6/_smearcursor.js"
   ],
-  "cursor.cpp.disabledLanguages": [],
+  "cursor.cpp.disabledLanguages": ["markdown"],
   "javascript.updateImportsOnFileMove.enabled": "always",
   "git.openRepositoryInParentFolders": "never",
   "[scss]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "workbench.preferredDarkColorTheme": "Everforest Dark",
+  "workbench.preferredDarkColorTheme": "Catppuccin Mocha",
   "workbench.sideBar.location": "right",
   "workbench.iconTheme": "catppuccin-perfect-mocha",
   "[json]": {
